@@ -25,7 +25,7 @@ cd frappe-bench
 
 Clone the repository
 
-bench get-app https://github.com/kanakinfo/nepali_calendar.git
+bench get-app https://github.com/ikm4398/calendar.git
 
 Install the app on your site, for example, your site name is kanak.
 
